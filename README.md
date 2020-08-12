@@ -17,5 +17,8 @@
 
 <div>
   <img src="https://raw.githubusercontent.com/rabelmarte/rabelmarte/master/nyc-1.gif">
-  <center><i>NYC Prince Street station by Nana Rausch</i></center>
+  <i>NYC Prince Street station by Nana Rausch</i>
 </div>
+<br>
+
+— <a href="https://www.rabelmarte.com/" target='_blank'>rabelmarte.com</a>
