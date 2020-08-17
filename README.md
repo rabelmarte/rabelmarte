@@ -1,7 +1,7 @@
 ### Hey there, my name's Rabel 👋
 
 <div>
-  I am a computer scientist who is interested in cryptography, privacy, and finance. I currently work as a Software Engineer at <a href="https://www.betterment.com/" target="_blank">Betterment</a>, based in New York City. Formerly I was a student at the University of Kansas where I graduated with a Bachelor of Science in Computer Science.
+  I am a computer scientist and software engineer who is interested in cryptography, privacy, and finance. I currently work as a Software Engineer at <a href="https://www.betterment.com/" target="_blank">Betterment</a>, based in New York City. Formerly I was a student at the University of Kansas where I graduated with a Bachelor of Science in Computer Science.
 </div>
 <br>
 
